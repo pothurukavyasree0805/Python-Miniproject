@@ -88,7 +88,7 @@ class Admin:
 
 
 admin = Admin()
-admin.add_product()
+admin.add_product())))
       
             
 
